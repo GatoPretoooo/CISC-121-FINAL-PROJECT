@@ -23,7 +23,7 @@ The problem was broken down into smaller steps
 
 The goal was to create a application to substitute the entire minecraft build to test each horse for each attribute. 
 The program focuses only on numerical values (speed, jump, health) to simplify the problem. It gets the value from the command F3-i which copies a /summon command
-It goes through the whole string and than takes it values, stores in a list and then sort it by value.
+It goes through the whole string and than takes its values, stores in a list and then sort it by value.
 The user interface is simple it shows what is the input the user want to sort and the other is the output that shows the sorted list bottom to top and the best horse
 
 # Design
@@ -93,8 +93,9 @@ Lucca Meira Bassani (aka GatoPretoooo)
 
 # Acknowledgement
 
-- This program has two versions due to platform limitations. The local version supports automatic data collection, while the deployed version requires manual inputs
+- This program has two versions due to platform limitations. The local version supports automatic data collection, while the deployed version requires manual inputs.
 - The idea for this program was based on a earlier project that me and a friend developed two years ago.
 - I would like to acknowledge the use of online resources and tools that helped me develop this project. 
 - I used Python documentation and Gradio documentation to understand how to build the user interface.
-- AI was used to help debug, improve code structure and understanding certain programming concepts 
+- AI was used to help debug, improve code structure and understanding certain programming concepts.
+- AI was used to fastly translate from portuguese to english.
