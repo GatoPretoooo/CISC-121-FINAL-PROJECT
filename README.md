@@ -2,3 +2,30 @@
 
 https://github.com/user-attachments/assets/b9d38d29-4cf9-42bd-8562-9fc5274d8202
 
+Welcome to Horse Analyzer 3000
+
+# Project description:
+
+This project is a python application made to analyze the three possible values that Minecraft gives when spawning a horse: Speed, Health and Jump height.
+This application allows the user to sort horses by their best attribute using a Bubble Sort algorithm and determine which one is the best.
+
+# Computational Thinking :
+
+The problem was broken down into smaller steps
+
+- Collect horse data from Minecraft
+- Extract speed, jump, and health values
+- Store horses in a list
+- Sort the horses based on a selected attribute
+- Display the best horse
+
+# Abstraction
+
+The goal was to create a application to substitute the entire minecraft build to test each horse for each attribute. 
+The program focuses only on numerical values (speed, jump, health) to simplify the problem. It gets the value from the command F3-i which copies a /summon command
+It goes through the whole string and than takes it values, stores in a list and then sort it by value.
+The user interface is simple it shows what is the input the user want to sort and the other is the output that shows the sorted list bottom to top and the best horse
+
+# Design
+
+
