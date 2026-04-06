@@ -79,7 +79,7 @@ Instead, users must manually paste the F3 + I data from Minecraft.
 
 The local version supports automatic data collection using a keybind.
 
-#Acknowledgement
+# Acknowledgement
 
 - This program has two versions due to plataform limitations. The local version supports automatic data collection, while the deployed version requires manual inputs
 - The idea for this program was based on a earlier project that me and a friend develped two years ago.
