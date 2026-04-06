@@ -27,5 +27,33 @@ It goes through the whole string and than takes it values, stores in a list and 
 The user interface is simple it shows what is the input the user want to sort and the other is the output that shows the sorted list bottom to top and the best horse
 
 # Design
+The program is really simple you have three options for the input the user want to sort, it processes the value through bubble sort and display the sorted values of the horses bottom to top and it tells you which horse is the better one in the desired attribute.
 
+The program follows this process:
+1. Input: Horse data from Minecraft
+2. Process: Sort horses using Bubble Sort
+3. Output: Sorted list and best horse
+
+# Algorithm Used
+
+### Bubble Sort
+Bubble Sort works by repeatedly comparing adjacent horses and swapping them if they are in the wrong order.
+
+Steps:
+1. Compare two horses
+2. Swap if needed
+3. Repeat until fully sorted
+
+# Testing
+
+The program was tested with:
+- Multiple horses with different values
+- Duplicate horses (to ensure they are ignored)
+- Invalid entities (non-horses)
+- Missing data cases
+
+The results showed that:
+- Horses are correctly collected
+- Sorting works properly
+- The best horse is correctly identified
 
