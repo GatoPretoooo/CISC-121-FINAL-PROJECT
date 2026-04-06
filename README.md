@@ -79,6 +79,12 @@ Due to platform limitations, the Hugging Face version cannot access the keyboard
 Instead, users must manually paste the F3 + I data from Minecraft.
 
 The local version supports automatic data collection using a keybind.
+<img width="1895" height="872" alt="Screenshot 2026-04-06 181110" src="https://github.com/user-attachments/assets/59910ba7-c0b1-4148-96db-2265efe66aca" />
+<img width="1887" height="839" alt="Screenshot 2026-04-06 181231" src="https://github.com/user-attachments/assets/f45651b8-5b74-4172-ac3d-21dc84e10a3f" />
+<img width="1856" height="454" alt="Screenshot 2026-04-06 181244" src="https://github.com/user-attachments/assets/89cd17a9-4cea-4593-b5e1-e9e152827b9e" />
+<img width="1918" height="459" alt="Screenshot 2026-04-06 181254" src="https://github.com/user-attachments/assets/c496c6b4-d98e-42b5-b8dc-204e8ca066eb" />
+<img width="1904" height="852" alt="Screenshot 2026-04-06 180401" src="https://github.com/user-attachments/assets/79a640e3-6b7a-46f6-9187-98616e5b40ec" />
+<img width="1823" height="484" alt="Screenshot 2026-04-06 181311" src="https://github.com/user-attachments/assets/0fb65e13-ec9a-4d66-9997-64ac2d94fff5" />
 
 # Author
 
