@@ -57,3 +57,32 @@ The results showed that:
 - Sorting works properly
 - The best horse is correctly identified
 
+# How to run
+- Install dependencies:
+  pip install keyboard pyperclip gradio
+- Run the Horse Analyzer 3000.py
+- Open minecraft:
+   In minecraft
+     - Go to a horse
+     - Press "K" on your keyboard to collect the data
+- Choose the desired atribute
+- Click submit 
+       
+# Alternatively:
+https://huggingface.co/spaces/GatoPretoo/CISC-121-FINAL-PROJECT
+
+# Note
+
+Due to platform limitations, the Hugging Face version cannot access the keyboard or clipboard.
+
+Instead, users must manually paste the F3 + I data from Minecraft.
+
+The local version supports automatic data collection using a keybind.
+
+#Acknowledgement
+
+- This program has two versions due to plataform limitations. The local version supports automatic data collection, while the deployed version requires manual inputs
+- The idea for this program was based on a earlier project that me and a friend develped two years ago.
+- I would like to acknowledge the use of online resources and tools that helped me develop this project. 
+- I used Python documentation and Gradio documentation to understand how to build the user interface.
+- AI was used to help debbug, improve code structure and understanding certain programming concepts 
