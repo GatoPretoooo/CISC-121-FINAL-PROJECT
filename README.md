@@ -6,7 +6,7 @@ Welcome to Horse Analyzer 3000
 
 # Project description:
 
-This project is a python application made to analyze the three possible values that Minecraft gives when spawning a horse: Speed, Health and Jump height.
+This project is a Python application made to analyze the three possible values that Minecraft gives when spawning a horse: Speed, Health and Jump height.
 This application allows the user to sort horses by their best attribute using a Bubble Sort algorithm and determine which one is the best.
 
 # Computational Thinking :
@@ -27,7 +27,8 @@ It goes through the whole string and than takes it values, stores in a list and 
 The user interface is simple it shows what is the input the user want to sort and the other is the output that shows the sorted list bottom to top and the best horse
 
 # Design
-The program is really simple you have three options for the input the user want to sort, it processes the value through bubble sort and display the sorted values of the horses bottom to top and it tells you which horse is the better one in the desired attribute.
+
+The program is simple, the user have three options for the input the user want to sort, it processes the value through bubble sort and display the sorted values of the horses bottom to top and it tells you which horse is the better one in the desired attribute.
 
 The program follows this process:
 1. Input: Horse data from Minecraft
@@ -36,7 +37,7 @@ The program follows this process:
 
 # Algorithm Used
 
-### Bubble Sort
+# Bubble Sort
 Bubble Sort works by repeatedly comparing adjacent horses and swapping them if they are in the wrong order.
 
 Steps:
@@ -65,7 +66,7 @@ The results showed that:
    In minecraft
      - Go to a horse
      - Press "K" on your keyboard to collect the data
-- Choose the desired atribute
+- Choose the desired attribute
 - Click submit 
        
 # Alternatively:
@@ -80,12 +81,13 @@ Instead, users must manually paste the F3 + I data from Minecraft.
 The local version supports automatic data collection using a keybind.
 
 # Author
+
 Lucca Meira Bassani (aka GatoPretoooo)
 
 # Acknowledgement
 
-- This program has two versions due to plataform limitations. The local version supports automatic data collection, while the deployed version requires manual inputs
-- The idea for this program was based on a earlier project that me and a friend develped two years ago.
+- This program has two versions due to platform limitations. The local version supports automatic data collection, while the deployed version requires manual inputs
+- The idea for this program was based on a earlier project that me and a friend developed two years ago.
 - I would like to acknowledge the use of online resources and tools that helped me develop this project. 
 - I used Python documentation and Gradio documentation to understand how to build the user interface.
-- AI was used to help debbug, improve code structure and understanding certain programming concepts 
+- AI was used to help debug, improve code structure and understanding certain programming concepts 
